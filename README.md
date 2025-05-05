@@ -13,6 +13,7 @@ SearchHarvester is an asynchronous, pluggable web content harvester built with F
 
 ## Directory Structure
 
+```text
 .
 ├── models.py
 ├── dependencies.py
@@ -27,6 +28,8 @@ SearchHarvester is an asynchronous, pluggable web content harvester built with F
 │   └── logging_config.py
 └── scraper
     └── client.py
+
+```
 
 ## Quick Start
 
